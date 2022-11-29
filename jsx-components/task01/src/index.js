@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-const name = '[YOUR NAME GOES HERE]';
+const name = '[Angela]';
 
 function Profile(name){
     return <main id="content" role="main" className="base">
